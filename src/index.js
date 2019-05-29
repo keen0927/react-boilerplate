@@ -1,1 +1,3 @@
-console.log('Hello World');
+import printMsg from './printMsg';
+
+console.log(printMsg('Hello World'));

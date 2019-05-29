@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/keen0927/react-boilerplate#readme",
   "dependencies": {
-    "webpack": "^4.30.0",
-    "webpack-cli": "^3.3.0"
+    
+  },
+  "devDependencies": {
+    
   }
 }
